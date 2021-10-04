@@ -3,7 +3,7 @@
 **An Inline Telegram bot that can download YouTube videos with permanent thumbnail support**
 
 <br>
-
+  - Full Credit goes to Renjithettan 💙
   - Bot need to be in Inline Mode
   - Search keyword inline (In bot chat).
   - Send a photo to bot to set custom thumbnail permanently.
