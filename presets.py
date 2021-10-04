@@ -20,7 +20,7 @@ class Presets(object):
     NOT_AUTH_TXT = "❌ ❌ 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐧𝐨𝐭 𝐚𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐞𝐝 ❌ ❌"
     DEFAULT_TITLE = "𝐈𝐧𝐥𝐢𝐧𝐞 𝐓𝐮𝐛𝐞 𝐌𝐚𝐭𝐞 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲"
     DEFAULT_THUMB_URL = "https://image.flaticon.com/icons/png/512/25/25231.png"
-    DEFAULT_LINK = "https://github.com/m4mallu"
+    DEFAULT_LINK = "https://github.com/agorirobot"
     DEFAULT_DESCRIPTION = "𝐋𝐢𝐧𝐤: Personal Robot | 𝐆𝐢𝐭𝐇𝐮𝐛"
     DEV_TITLE = "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧"
     DEV_THUMB_URL = "https://freepikpsd.com/media/2019/10/software-developer-icon-png-2-Transparent-Images.png"
