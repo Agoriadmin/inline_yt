@@ -1,8 +1,8 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Name     : inline-tube-mate [ Telegram ]
-# Repo     : https://github.com/m4mallu/inine-tube-mate
-# Author   : Renjith Mangal [ https://t.me/space4renjith ]
+# Name     : inline-Youtube-DL [ Telegram ]
+# Repo     : https://github.com/agoriadmin/inline_yt
+# Author   : PR [ https://t.me/personal_privetbot1]
 
 from urllib.parse import quote
 from presets import Presets
@@ -10,24 +10,24 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_btn = [
     [
-        InlineKeyboardButton('View Thumb', callback_data='view_btn'),
-        InlineKeyboardButton('Del Thumb', callback_data='del_btn')
+        InlineKeyboardButton('View Thumb🌉', callback_data='view_btn'),
+        InlineKeyboardButton('Del Thum💣', callback_data='del_btn')
 
     ],
     [
-        InlineKeyboardButton('Help', callback_data='help_btn'),
+        InlineKeyboardButton('Help❓️', callback_data='help_btn'),
         InlineKeyboardButton('Support', url='t.me/RMProjects')
     ],
     [
         InlineKeyboardButton('Close', callback_data='close_btn'),
-        InlineKeyboardButton('Search Inline', switch_inline_query_current_chat='')
+        InlineKeyboardButton('Search Inline♻️', switch_inline_query_current_chat='')
     ]
 ]
 
 
 del_thumb = [
     [
-        InlineKeyboardButton("DEL THUMB", callback_data="thumb_del_conf_btn"),
+        InlineKeyboardButton("DEL THUMB📵", callback_data="thumb_del_conf_btn"),
         InlineKeyboardButton("Back", callback_data="a_back_btn")
     ]
 ]
@@ -35,7 +35,7 @@ del_thumb = [
 join_channel = [
     [
         InlineKeyboardButton('⚙ Join Updates', url='https://telegram.me/RMProjects'),
-        InlineKeyboardButton('Search Inline', switch_inline_query_current_chat='')
+        InlineKeyboardButton('Search Inline♻️', switch_inline_query_current_chat='')
     ]
 ]
 
@@ -61,8 +61,8 @@ cancel_button = [
 
 prompt_thumb_btn = [
     [
-        InlineKeyboardButton('Yes', callback_data='set_thumb_btn'),
-        InlineKeyboardButton('No', callback_data='close_btn')
+        InlineKeyboardButton('Yes👍🏻', callback_data='set_thumb_btn'),
+        InlineKeyboardButton('No👎🏻', callback_data='close_btn')
     ]
 ]
 
